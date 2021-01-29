@@ -13,10 +13,16 @@
 body {
   background: #f3f6fd;
   padding: 30px;
+  display: flex;
+  flex-wrap: wrap;
 }
 
 .divider {
   height: 50px;
+}
+
+.component {
+  margin: 20px;
 }
 
 .component.component1 {
@@ -24,6 +30,7 @@ body {
   padding: 80px;
   border-radius: 15px;
   max-width: 950px;
+  max-height: 350px;
   display: flex;
   align-items: center;
 }
