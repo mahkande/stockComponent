@@ -1,1 +1,1 @@
-![](https://github.com/mahkande/NeumorphismEffect/blob/master/Capture.PNG)
+![](https://github.com/mahkande/stockComponent/blob/master/img/stockcomponent.png)
